@@ -1,5 +1,4 @@
 from bottle import Bottle, run, route, request
-import jinja2
 import sys
 from gevent.pywsgi import WSGIServer
 
