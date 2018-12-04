@@ -13,7 +13,7 @@ Python 2.7.x - 3.5.x
 
   command line switches:
   
-  --deploy - uses the GEvent WSGI server.  Should be suitable for deployment (caveat emptor).
+  --deploy - uses the GEvent WSGI server.  Should be suitable for simple/temporary deployment ;-) (caveat emptor).
   
   --port xxxx - listen to a particular port where xxxx is an integer (upper limit 65535)
 
